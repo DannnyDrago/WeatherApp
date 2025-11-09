@@ -37,4 +37,5 @@
 
 ![image alt](https://github.com/DannnyDrago/WeatherApp/blob/e227dcb7c3e4536552e2a4ceaf14747947920e52/Screenshot%20(153).png)
 ![image alt](https://github.com/DannnyDrago/WeatherApp/blob/340d46c397fa581d4a130d35f9b613cb8979abf4/Screenshot%20(154).png)
+![image alt](https://github.com/DannnyDrago/WeatherApp/blob/f9f5a980a9d12ce9d429694c20d56bc2846f5998/Screenshot%20(155).png)
 
