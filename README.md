@@ -32,3 +32,6 @@
 * **git clone https://github.com/DannnyDrago/WeatherApp.git**
 * **Отворете проекта в Android Studio.**
 * **Задайте свой API ключ от OpenWeatherMap local.properties**
+
+### Скрийншотове:
+![image alt](https://github.com/DannnyDrago/WeatherApp/blob/e227dcb7c3e4536552e2a4ceaf14747947920e52/Screenshot%20(153).png)
