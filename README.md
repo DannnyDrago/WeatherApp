@@ -41,7 +41,7 @@
 ![image alt](https://github.com/DannnyDrago/WeatherApp/blob/b9118958c9e9c437ebdec86e350aa293287e6d0f/Screenshot%20(156).png)
 
 ###APK:
-* **APK-то се намира във папката /apk/app-debug.apk**
+* **APK-то се намира във  /apk/app-debug.apk**
 
 
 
